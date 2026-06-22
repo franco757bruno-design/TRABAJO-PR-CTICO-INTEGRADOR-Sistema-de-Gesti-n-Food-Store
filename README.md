@@ -10,4 +10,4 @@ Aplicación de consola desarrollada en Java para la gestión de productos, categ
 ## Cómo Ejecutar el Proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone
+   git clone https://github.com/franco757bruno-design/TRABAJO-PR-CTICO-INTEGRADOR-Sistema-de-Gesti-n-Food-Store
